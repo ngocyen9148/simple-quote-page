@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  width: 100%;
+  height: 100vh;
+  background: url(assets/freedom.jpg) no-repeat center;
+  background-size: cover;
+  color: #333;
+  line-height: 1.5;
+}
+
+.wrapper {
+  padding-top: 4rem;
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#quote {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 2.5rem;
+  padding-top: 4rem;
+}
+
+#author {
+  font-family: 'Crimson Text', serif;
+  font-style: italic;
+}
